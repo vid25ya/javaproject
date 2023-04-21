@@ -8,8 +8,8 @@ public class Program6 {public static void main(String[] args) {
 	
 	
 	//&&  we both are true then o/p true if anyone false o/p is false
-	System.out.println(a&&b);//false
-	System.out.println(a&&c);//true
+	System.out.println(a&&b);
+	System.out.println(a&&c);
 	
 	//|| if anyone as true o/p true if both are false o/p false
 	System.out.println(a||b);
