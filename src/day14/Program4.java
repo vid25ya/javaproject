@@ -1,0 +1,13 @@
+package day14;
+
+public class Program4 {
+
+	public static void main(String[] args) {
+		  String binary = "01011011";
+		    int octal = Integer.parseInt(binary, 8);
+		    System.out.println(binary + " in binary = " + octal + " in octal.");
+		  }
+
+	}
+
+
